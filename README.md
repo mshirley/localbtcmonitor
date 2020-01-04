@@ -1,5 +1,5 @@
 # localbtcmonitor
-this tool generates png images of current localbitcoin.com advertisements converted to USD.
+this tool generates png images of current localbitcoins.com advertisements converted to USD.
 
 the default configuration is to use the heroku app associated with https://github.com/me-io/go-swap for currency conversion.  if this server isn't available or you want to use your own copy of go-swap just change the value in monitor.go and recompile 
 
